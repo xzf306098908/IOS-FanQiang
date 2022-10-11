@@ -16,7 +16,7 @@
 这一步需要你拥有一美区AppleID，你可以通过淘宝购买或自行注册，注册步骤如下：
 1:访问[点这里](https://www.qingyuesl.com/login.html?channel=zhaohui)注册后选择月付，将加速器打开后访问苹果官网注册ID，地区选择美国，手机号填大陆手机即可
 
-2:账单寄送地址可以参阅[账单参考表](66AB3CCF-D3C5-4DA7-8094-322228D6C408.png)进行填写
+2:账单寄送地址可以参阅[账单参考表](https://github.com/xzf306098908/-/blob/main/README.md)进行填写
 
 3:支付方式选择“无”并关闭加速器。
 
