@@ -11,10 +11,7 @@
 * [x] 知道本手册的意图。
 * [x] 一颗能认真阅读本手册且无不良意图的心
 
-## 第一步
-这一步需要你拥有一美区AppleID，你可以通过淘宝购买或自行注册，注册步骤如下：
-1:访问[点这里](
 
 ## 第一步
 这一步需要你拥有一美区AppleID，你可以通过淘宝购买或自行注册，注册步骤如下：
-1:访问[点这里](https://www.qingyuesl.com/login.html?channel=zhaohui)
+1:访问[点这里](https://www.qingyuesl.com/login.html?channel=zhaohui)注册后选择月付，将加速器打开后访问苹果官网注册ID，地区选择美国，手机号填大陆手机即可
