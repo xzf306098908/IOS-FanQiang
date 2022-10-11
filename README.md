@@ -28,8 +28,8 @@
 
 3:点击[小火箭下载](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)购买完毕。
 
-##第三步
+## 第三步
 
 1:打开shadowrocket，在设置中将“自动后台更新”和“根据ping值排序”打开。
 
-2:访问
+2:访问[机场](https://xstars.top/#/dashboard)
