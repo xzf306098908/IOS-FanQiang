@@ -13,3 +13,8 @@
 
 ## 第一步
 这一步需要你拥有一美区AppleID，你可以通过淘宝购买或自行注册，注册步骤如下：
+1:访问[点这里](
+
+## 第一步
+这一步需要你拥有一美区AppleID，你可以通过淘宝购买或自行注册，注册步骤如下：
+1:访问[点这里](https://www.qingyuesl.com/login.html?channel=zhaohui)
