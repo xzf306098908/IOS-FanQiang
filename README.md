@@ -23,5 +23,7 @@
 
 ## 第二步
 1:在淘宝搜索“美区苹果ID礼品卡”选择5美金进行购买。
+
 2:在AppStore“Today”页面右上角点击你的头像，选择“兑换充值卡或代码”兑换你刚购买的礼品卡。
-3:在AppStore搜索“[小火箭下载](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
+
+3:点击[小火箭下载](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
