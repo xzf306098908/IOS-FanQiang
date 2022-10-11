@@ -39,6 +39,11 @@
 4:在shadowrocket中点击“连通性测试”选择ping值最小的连接。
 
 ### 常见问题？
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 
 
