@@ -40,9 +40,9 @@
 
 ### 常见问题？
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xzf306098908/IOS-FanQiang/main/66AB3CCF-D3C5-4DA7-8094-322228D6C408.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xzf306098908/IOS-FanQiang/main/66AB3CCF-D3C5-4DA7-8094-322228D6C408.png">
+ <img alt="hsj" src="https://raw.githubusercontent.com/xzf306098908/IOS-FanQiang/main/66AB3CCF-D3C5-4DA7-8094-322228D6C408.png">
 </picture>
 
 
