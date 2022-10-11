@@ -26,4 +26,10 @@
 
 2:在AppStore“Today”页面右上角点击你的头像，选择“兑换充值卡或代码”兑换你刚购买的礼品卡。
 
-3:点击[小火箭下载](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
+3:点击[小火箭下载](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)购买完毕。
+
+##第三步
+
+1:打开shadowrocket，在设置中将“自动后台更新”和“根据ping值排序”打开。
+
+2:访问
