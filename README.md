@@ -39,11 +39,13 @@
 4:在shadowrocket中点击“连通性测试”选择ping值最小的连接。
 
 ### 常见问题？
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xzf306098908/IOS-FanQiang/main/66AB3CCF-D3C5-4DA7-8094-322228D6C408.png">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xzf306098908/IOS-FanQiang/main/66AB3CCF-D3C5-4DA7-8094-322228D6C408.png">
- <img alt="hsj" src="https://raw.githubusercontent.com/xzf306098908/IOS-FanQiang/main/66AB3CCF-D3C5-4DA7-8094-322228D6C408.png">
-</picture>
+
+1:为什么注册ID时付款方式没有“无”选项。
+-没有开启加速器导致。
+
+2:前文提到的注册时所用加速器和shadowrocket有什么区别，既然那个加速器能用，又为什么画蛇添足下载shadow
+rocket？
+-前者45/月，后者8/月，如果你钱多可以选择前者。
 
 
 
